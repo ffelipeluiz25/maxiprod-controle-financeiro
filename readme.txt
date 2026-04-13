@@ -98,3 +98,5 @@
 	Certifique-se de que as APIs estejam rodando antes de iniciar o frontend
 	Verifique as URLs e portas configuradas no arquivo api.ts
 	Cada API pode possuir endpoints e comportamentos diferentes
+	
+	ATENÇÃO: Rodar o script do banco de dados para construção da estrutura, criado com MySQL
